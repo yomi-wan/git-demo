@@ -2,3 +2,9 @@ h1{
     color: darkslateblue;
     font-size: 2rem;
 }
+h2{
+    font-size: 1.8rem;
+}
+header{
+    padding: 1rem;
+}
